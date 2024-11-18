@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** My VPS company job offer is going to announce on this month of November 20th **** </h1>   
+         <h1> **** VPS announced job offer on November 20th to me**** </h1>   
 	 
 
     </section>    
