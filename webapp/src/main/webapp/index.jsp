@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Hello this is Hari.Finally i deployed the application successfully on CI/CD. Everyone should practice the CICD Project. Wish you good luck. Hari Kiran **** </h1>   
+         <h1> **** My VPS company job offer is going to announce on this month of November 20th **** </h1>   
 	 
 
     </section>    
