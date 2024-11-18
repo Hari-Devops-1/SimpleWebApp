@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> **** Most of the project teams using the CICD.. everyone should practice the CICD Project **** </h1>   
+         <h1> **** Hello this is Hari.Finally i deployed the application successfully on CI/CD. Everyone should practice the CICD Project. Wish you good luck. Hari Kiran **** </h1>   
 	 
 
     </section>    
